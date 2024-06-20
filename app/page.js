@@ -2,7 +2,10 @@ import React from 'react'
 
 const page = () => {
   return (
-    <div>page</div>
+    <>
+      <h1 className='text-blue-500 uppercase text-9xl font-bold'>Hello!!</h1>
+      
+    </>
   )
 }
 
